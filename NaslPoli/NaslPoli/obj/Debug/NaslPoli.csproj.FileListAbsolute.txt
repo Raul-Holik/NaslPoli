@@ -1,0 +1,8 @@
+C:\Users\Osoba\Documents\Skola\NaslPoli\NaslPoli\bin\Debug\NaslPoli.exe.config
+C:\Users\Osoba\Documents\Skola\NaslPoli\NaslPoli\bin\Debug\NaslPoli.exe
+C:\Users\Osoba\Documents\Skola\NaslPoli\NaslPoli\bin\Debug\NaslPoli.pdb
+C:\Users\Osoba\Documents\Skola\NaslPoli\NaslPoli\obj\Debug\NaslPoli.csproj.AssemblyReference.cache
+C:\Users\Osoba\Documents\Skola\NaslPoli\NaslPoli\obj\Debug\NaslPoli.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osoba\Documents\Skola\NaslPoli\NaslPoli\obj\Debug\NaslPoli.csproj.CoreCompileInputs.cache
+C:\Users\Osoba\Documents\Skola\NaslPoli\NaslPoli\obj\Debug\NaslPoli.exe
+C:\Users\Osoba\Documents\Skola\NaslPoli\NaslPoli\obj\Debug\NaslPoli.pdb
